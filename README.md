@@ -1,10 +1,10 @@
 # Installation
 >Using cloud formation template
 
-1: Zip the code and upload it on a media server to directly fetch and unzip inside EC2 instance
-2: Configure VPC to allow inbound traffic to PORTS exposed (http, ipv4, 3000, 3001)
-3: Assign an elastic IP to the instance.
-4: update the old IP with new elastic IP in ./View ./Gallery ./Upload.
+- Zip the code and upload it on a media server to directly fetch and unzip inside EC2 instance
+- Configure VPC to allow inbound traffic to PORTS exposed (http, ipv4, 3000, 3001)
+- Assign an elastic IP to the instance.
+- update the old IP with new elastic IP in ./View ./Gallery ./Upload.
 
 
 
