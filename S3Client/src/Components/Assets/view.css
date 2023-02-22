@@ -1,0 +1,14 @@
+#bruh1-img {
+  display: block;
+  max-width: 700px;
+  max-height: 600px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+
+.centered-horizontally {
+  display: flex;
+  justify-content: center;
+}
